@@ -1,0 +1,40 @@
+Entry: 1
+Registration: ET31 Rax
+Valid Plate: True
+Speed: 9.777777777777779
+Write to file: False
+Details: Finn Allen 24 Big lane, Cambridge
+
+
+Entry: 2
+Registration: Nd08 wnj
+Valid Plate: True
+Speed: 12.0
+Write to file: False
+Details: Sonja King 18 Average sized lane, New York
+
+
+Entry: 3
+Registration: xZ08 WuI
+Valid Plate: True
+Speed: 10.285714285714286
+Write to file: False
+Details: Finn Moore 9 Low Street, York
+
+
+Entry: 4
+Registration: VL18 PWN
+Valid Plate: True
+Speed: 13.4
+Write to file: False
+Details: Felix Hill 55 Medium Street, Canterbury
+
+
+Entry: 5
+Registration: uv55 EJD
+Valid Plate: True
+Speed: 4.875
+Write to file: False
+Details: Phil Wright 146 Party Street, Cambridge
+
+
